@@ -54,13 +54,3 @@ API
 </div>
 
 <br>
-
-## <h2 align="center">Stats</h2>
-
-<br>
-<div align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoeWebDev70&theme=dark&hide_border=true)](https://git.io/streak-stats)
-</div>
-
-
