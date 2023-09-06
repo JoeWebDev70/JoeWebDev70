@@ -37,11 +37,11 @@
 SQL
 <img title="MySql" alt="MySql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/mysql/mysql-original.svg" />
 <img title="php8" alt="php8" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-SYMONY
+SYMFONY
 <img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img title="+Babbel" alt="+Babbel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/babel/babel-original.svg" />
+<img title="Babel" alt="Babel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/babel/babel-original.svg" />
 <img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 API
 <img title="Sass" alt="Sass" width="30px" src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/sass-original.svg" />
