@@ -46,6 +46,7 @@ SQL
 API
 <img title="Sass" alt="Sass" width="30px" src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/sass-original.svg" />
 <img title="Tailwind CSS" alt="Tailwind CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" />
+<img title="Bootstrap CSS" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/bootstrap/bootstrap-original.svg" />
 <img title="Webpack" alt="Webpack" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/webpack/webpack-original.svg" />
 <img title="Figma" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/figma/figma-original.svg" />
 <img title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
