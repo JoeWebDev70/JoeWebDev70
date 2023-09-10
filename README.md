@@ -51,6 +51,7 @@ API
 <img title="Figma" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/figma/figma-original.svg" />
 <img title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img title="Docker" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/docker/docker-original.svg" />
 <img title="Word Press" alt="Word Press" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/wordpress/wordpress-original.svg" />
 </div>
 
