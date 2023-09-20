@@ -6,7 +6,7 @@
 ## <h2 align="center">About</h2>
 <br>
 
-- 🌱 I'm currently training to become a web developer with onlineformapro in Lure (70). <br>
+- 🌱 I'm currently training to become a web developer with Onlineformapro in Lure (70). <br>
   This training prepares me to work on both front and back ends.
   
 - 🎯 Once I've obtained this level 5 professional qualification, I'd like to specialize in back-end development.
