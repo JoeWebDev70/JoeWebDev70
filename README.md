@@ -1,4 +1,4 @@
-# Hello <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /> I'm Joe. I'm glad to see you here ! <a href="https://www.gifsanimes.com/cat-smileys-coeurs-2178.htm"><img src="https://www.gifsanimes.com/data/media/2178/smiley-coeur-image-animee-0014.gif" border="0" alt="smiley-coeur-image-animee-0014" /></a>
+# Hello <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /> I'm Joe. I'm glad to see you here !
 ![Photo from Pexel.com - stein-egil-liland-3384692](./image_github/pexels-stein-egil-liland-3384692_gifmaker_me.gif)
 
 
