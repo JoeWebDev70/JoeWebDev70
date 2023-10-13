@@ -28,13 +28,12 @@
 
 <br>
 
-## <h2 align="center"> <img alt="my avatar made on Bitmoji" src="./image_github/avatar_joe.png" width="60px" height="60px"> What I'm learning</h2>
+## <h2 align="center"> <img alt="my avatar made on Bitmoji" src="./image_github/avatar_joe.png" width="60px" height="60px"> Technologies used</h2>
 
 <br>
 
 <div align="center">
 <br>
-SQL
 <img title="MySql" alt="MySql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/mysql/mysql-original.svg" />
 <img title="php8" alt="php8" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img title="Symfony" alt="Symfony" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
