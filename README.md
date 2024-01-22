@@ -5,11 +5,11 @@
 
 ## <h2 align="center">About</h2>
 <br>
-
-- 🌱 I'm currently training to become a web developer with Onlineformapro in Lure (70). <br>
-  This training prepares me to work on both front and back ends.
+ 
+- 🎯 I'm currently looking for professional opportunities.
   
-- 🎯 Once I've obtained this level 5 professional qualification, I'd like to specialize in back-end development.
+- 🌱 I've just finished my training for the professional title of web and mobile web developer with Onlineformapro in Lure (70). <br>
+      This training prepares me to work on both front and back ends.
 
 <br>
 <div>
@@ -36,22 +36,17 @@
 <br>
 <img title="MySql" alt="MySql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/mysql/mysql-original.svg" />
 <img title="php8" alt="php8" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img title="Symfony" alt="Symfony" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
 <img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img title="Sass" alt="Sass" width="30px" src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/sass-original.svg" />
 <img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img title="Babel" alt="Babel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/babel/babel-original.svg" />
 <img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-API
-<img title="Sass" alt="Sass" width="30px" src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/sass-original.svg" />
-<img title="Tailwind CSS" alt="Tailwind CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" />
-<img title="Bootstrap CSS" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/bootstrap/bootstrap-original.svg" />
 <img title="Webpack" alt="Webpack" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/webpack/webpack-original.svg" />
 <img title="Figma" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/figma/figma-original.svg" />
 <img title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img title="Docker" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/docker/docker-original.svg" />
-<img title="Word Press" alt="Word Press" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/wordpress/wordpress-original.svg" />
 </div>
 
 <br>
