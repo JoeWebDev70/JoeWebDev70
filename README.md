@@ -8,8 +8,8 @@
  
 - 🎯 I'm currently looking for professional opportunities.
   
-- 🌱 I've just finished my training for the professional title of web and mobile web developer with Onlineformapro in Lure (70). <br>
-      This training prepares me to work on both front and back ends.
+- 🌱 I've just finished my training for the professional title of web and mobile web developer at Onlineformapro in Lure (70). <br>
+This training prepares me to work on both front and back-end development, with the aim of rounding out my IT skills.
 
 <br>
 <div>
@@ -28,7 +28,7 @@
 
 <br>
 
-## <h2 align="center"> <img alt="my avatar made on Bitmoji" src="./image_github/avatar_joe.png" width="60px" height="60px"> Technologies used</h2>
+## <h2 align="center"> <img alt="my avatar made on Bitmoji" src="./image_github/avatar_joe.png" width="60px" height="60px"> Technologies used on web development</h2>
 
 <br>
 
